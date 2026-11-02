@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Officium de Deo Patre</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #000000;
+            font-family: sans-serif;
+            font-size: 13px;
+            line-height: 1.3;
+            margin: 4px;
+            padding: 0;
+        }
+        h1 { font-size: 15px; text-align: center; color: #800000; margin: 4px 0; }
+        h2 { font-size: 13px; color: #000080; background: #f0f0f0; padding: 3px; border-bottom: 1px solid #ccc; margin-top: 15px; }
+        .menu { background: #eef; padding: 4px; border: 1px solid #ccd; margin-bottom: 10px; }
+        .menu a { display: block; padding: 3px; color: #000; text-decoration: none; border-bottom: 1px dotted #ccc; font-weight: bold; }
+        .rubryka { color: #800000; font-style: italic; }
+        .versiculum { margin-left: 2px; margin-bottom: 4px; }
+        .powrot { text-align: center; margin: 10px 0; font-size: 11px; }
+        .powrot a { color: #000080; text-decoration: none; }
+        hr { border: 0; border-top: 1px solid #999; margin: 10px 0; }
+    </style>
+</head>
+<body id="top">
+
+    <h1>OFFICIUM DE DEO PATRE</h1>
+    
+    <!-- MENU NAWIGACYJNE DLA KLAWISZY NOKII -->
+    <div class="menu">
+        <div style="text-align: center; font-size: 11px; margin-bottom: 3px;"><b>WYBIERZ GODZINĘ:</b></div>
+        <a href="#maitines">1. Maitines (Maitines)</a>
+        <a href="#prima">2. Prima (Prima)</a>
+        <a href="#tercia">3. Tercia (Tercia)</a>
+        <a href="#sexta">4. Sexta (Sexta)</a>
+        <a href="#nona">5. Nona (Nona)</a>
+        <a href="#visperas">6. Vísperas (Vísperas)</a>
+        <a href="#completas">7. Completas (Completas)</a>
+    </div>
+
+    <!-- 1. MAITINES -->
+    <div id="maitines">
+        <h2>AD MATUTÍNUM (Maitines)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Dómine ✝, lábia mea apéries.<br><b>℟.</b> Et os meum annuntiábit laudem tuam.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝ Pater, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.</p>
+        <p class="versiculum"><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+        <p class="rubryka">Od Septuagesimy do Wielkanocy zamiast Alleluja: Laus tibi, Dómine, Rex ætérnæ glóriæ.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Lucis Creátor óptime,<br>Lucem diérum próferens,<br>Primórdiis lucis novæ,<br>Mundi parans oríginem:<br>Qui mane junctum vésperi<br>Diem vocári prǽcipis:<br>Vitémus omne nóxium:<br>Purgémus omne péssimum.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Benedíctio, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus et fortitúdo Deo Patri in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clamor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+    <hr>
+
+    <!-- 2. PRIMA -->
+    <div id="prima">
+        <h2>AD PRIMAM (Prima)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.<br><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Imménse cœli Cónditor,<br>Qui mixta ne confúnderent,<br>Aquæ fluénta dívidens,<br>Cœlum dedísti límitem.<br>Infúnde nunc, piíssime,<br>Donum perénnis grátiæ:<br>Fraudis novæ ne cásibus<br>Nos error átterat vetus.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Benedíctus Dóminus Deus Israël, qui fecit mirabília solus, et benedíctum nomen Majestátis Ejus in ætérnum.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clámor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+    <hr>
+
+    <!-- 3. TERCIA -->
+    <div id="tercia">
+        <h2>AD TERTIAM (Tercia)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.<br><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Tellúris alme Cónditor!<br>Mundi solum qui séparans,<br>Pulsis áquæ moléstiis<br>Terram dedísti immóbilem.<br>Ut germen aptum próferens<br>Staret decóra flóribus,<br>Munda viróre grátiæ<br>Mentis perústæ vúlnera.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Benedíctus es Dómine Deus Pater in firmaménto cœli, et laudábilis, et gloriósus, et superexaltátus in sǽcula.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clamor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+    <hr>
+
+    <!-- 4. SEXTA -->
+    <div id="sexta">
+        <h2>AD SEXTAM (Sexta)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝ Pater, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.<br><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Cœli Deus sanctíssime!<br>Qui lúcidas mundi plagas,<br>Candóre pingis ígneo,<br>Áugens decóro lúmine.<br>Expélle noctem córdium:<br>Abstérge sordes méntium:<br>Resólve culpæ vínculum:<br>Evérte moles críminum.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Deo Patri laus et perénnis glória, ante ómnia sǽcula, nunc et in perpétuum.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clamor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+    <hr>
+
+    <!-- 5. NONA -->
+    <div id="nona">
+        <h2>AD NONAM (Nona)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝ Pater, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.<br><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Magnæ Deus poténtiæ!<br>Qui fértili natos áqua<br>Partim relínquis gúrgiti,<br>Partim levas in áëra.<br>Ut culpa nullum déprimat:<br>Nullum éfferat jactántia:<br>Elísa mens ne cóncidat:<br>Eláta mens ne córruat.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Glória láudis resónet in ore ómnium Deo Patri, et resúltet láude perénni.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clamor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+    <hr>
+
+    <!-- 6. VÍSPERAS -->
+    <div id="visperas">
+        <h2>AD VÉSPERAS (Vísperas)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝ Pater, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.<br><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Hóminis supérne Cónditor!<br>Qui cuncta solus órdinans,<br>Humum jubes prodúcere,<br>Reptántis et feræ genus:<br>Et magna rerum córpora,<br>Da gaudiórum prǽmia,<br>Da gratiárum múnera,<br>Astrínge pacis fœ́dera.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Benedíctus sit Deus Pater, Creátor et Gubernátor ómnium, nunc et semper, et per infiníta sǽcula sæculórum.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clamor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+    <hr>
+
+    <!-- 7. COMPLETAS -->
+    <div id="completas">
+        <h2>AD COMPLETORIUM (Completas)</h2>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+        <p>Te Deum Patrem laudámus, Te Conditórem cœli et terræ confitémur.</p>
+        <p class="versiculum"><b>℣.</b> Convérte nos ☨ Deus, salutáris noster.<br><b>℟.</b> Et avérte iram tuam a nobis.</p>
+        <p class="versiculum"><b>℣.</b> Deus ✝ Pater, in adjutórium meum inténde.<br><b>℟.</b> Dómine, ad adjuvándum me festína.</p>
+        <p class="versiculum"><b>℣.</b> Glória Patri, et Fílio, et Spirítui Sancto.<br><b>℟.</b> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+
+        <p class="rubryka">Hymnus:</p>
+        <p>Scrutátor alme córdium,<br>Infírma tu scis vírium:<br>Ad te revérsis éxhibe<br>Remissiónis grátiam.<br>Multum quidem peccávimus,<br>Sed parce confiténtibus:<br>Confer medélam lánguidis,<br>Infúnde lumen córdibus.<br>Te mane laudum cármine,<br>Te deprecámur véspere;<br>Dignéris ut te súpplices<br>Laudémus inter cœlites. Amen.</p>
+
+        <p class="rubryka">Antiphona:</p>
+        <p>Te Deum laudámus, Te Dóminum confitémur, Te ætérnum Patrem omnis terra venerátur.</p>
+
+        <p class="versiculum"><b>℣.</b> Benedicámus Deum Patrem.<br><b>℟.</b> Laudémus et superexaltémus Eum in sǽcula.</p>
+
+        <p class="rubryka">Orémus:</p>
+        <p>Da nobis, quǽsumus, omnípotens ætérne Deus, auxílium grátiæ tuæ, ut qui Te Patrem ingénitum, Deum verum, Creatórem cœli et terræ, visibílium ómnium et invisibílium, esse crédimus, in exequéndis quóque mandátis tuis, voluntáte et actióne semper Tibi placeámus, qui Deus es in sǽcula sæculórum. Amen.</p>
+
+        <p class="versiculum"><b>℣.</b> Dómine, exáudi oratiónem meam.<br><b>℟.</b> Et clamor meus ad te véniat.<br><b>℣.</b> Benedicámus Dómino.<br><b>℟.</b> Deo grátias.<br><b>℣.</b> Fidélium ánimæ per misericórdiam Dei requiéscant in pace.<br><b>℟.</b> Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+
+        <p class="rubryka">Oblatio (Oblación a Dios Padre, después de las Completas):</p>
+        <p>Clementíssime Pater, ætérne Deus! pro ómnibus peccátis meis et pro peccátis tótius mundi, óffero Tibi Unigénitum tuum in Cruce pendéntem, omnem quóque passiónem, dolórem, angústiam, pressúram, sánguinem, ac mortem Ejus. Óffero Tibi ea in charitáte et virtúte, qua olim Semetípsum óbtulit pro nobis in ara Crucis. In ejúsdem oblatiónis unióne, óffero meípsum Tibi in láudem, et glóriam, ac beneplácitum tuum sempitérnum. Amen.</p>
+        <p class="rubryka">† In nómine Patris, et Fílii, et Spíritus Sancti. Amen.</p>
+
+        <div class="powrot"><a href="#top">⬆ Powrót do menu godzin</a></div>
+    </div>
+
+</body>
+</html>
